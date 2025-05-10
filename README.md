@@ -1,6 +1,4 @@
-Thanks for sharing your GitHub profile README, Rediet! You've got a great foundation here. I've made some improvements to formatting, grammar, consistency, and structure. I also added placeholders where details are missing (like project names/screenshots/links). Here's the polished version:
 
----
 
 # Hi there, I'm Rediet! 👋
 
@@ -20,11 +18,9 @@ I'm a passionate **junior developer** with experience in **HTML, CSS, and JavaSc
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square\&logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square\&logo=django\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
 
----
+
 
 ## Featured Projects 💻
 
@@ -64,6 +60,4 @@ A clone of Airbnb built using **React, Django, and PostgreSQL** featuring proper
 * 💼 [LinkedIn](https://www.linkedin.com/in/rediet-abreham-8a8b49250/)
 * 🐦 [Twitter](your_twitter_profile_link)
 
----
 
-Let me know if you'd like help creating project screenshots, writing detailed project descriptions, or designing a portfolio site!
