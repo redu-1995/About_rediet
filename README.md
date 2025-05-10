@@ -37,7 +37,7 @@ I'm a passionate **junior developer** with experience in **HTML,CSS and Javascri
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**([your_linkedin_profile_link)](https://www.linkedin.com/in/rediet-abreham-8a8b49250/)
+- **[LinkedIn]**[https://www.linkedin.com/in/rediet-abreham-8a8b49250/]
 - **[Twitter]**(your_twitter_profile_link)
 
 
