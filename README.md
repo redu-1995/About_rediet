@@ -56,8 +56,8 @@ A clone of Airbnb built using **React, Django, and PostgreSQL** featuring proper
 
 ## Get in Touch 📬
 
-* 🌐 [Portfolio Website](your_website_or_blog_link)
+* 🌐 [Portfolio Website]((https://redu-1995.github.io/MY-Portfolio/))
 * 💼 [LinkedIn](https://www.linkedin.com/in/rediet-abreham-8a8b49250/)
-* 🐦 [Twitter](your_twitter_profile_link)
+
 
 
