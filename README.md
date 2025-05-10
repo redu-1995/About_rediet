@@ -24,35 +24,23 @@ I'm a passionate **junior developer** with experience in **HTML, CSS, and JavaSc
 
 ## Featured Projects 💻
 
-### [Project 1: Event Management System](#)
+Calculator Website
 
-![Event Management System Screenshot](project_1_screenshot_url)
+A responsive Calculator Website built with HTML, CSS, and JavaScript. It supports basic arithmetic operations and has a clean, mobile-friendly interface.
 
-A full-featured web-based **Event Management System** built with **Django, PostgreSQL, and Bootstrap**. It supports event creation, ticketing, attendee management, and feedback collection.
-
-🔗 [Repository](project_1_repository_link)
+🔗 [Repository](https://github.com/redu-1995/Calculator-Web-App.git)
 
 ---
 
-### [Project 2: Digital Storefront Creator](#)
+To-Do List Website
 
-![Digital Storefront Screenshot](project_2_screenshot_url)
+A simple and functional To-Do List Web App developed using HTML, CSS, and JavaScript. Users can add, mark complete, and delete tasks, with data persistence using local storage.
 
-A platform to help small businesses launch their own digital storefronts. Built using **React.js, Django, and REST APIs**, it integrates with payment and shipping services for easy dropshipping.
-
-🔗 [Repository](project_2_repository_link)
+🔗 [Repository](https://github.com/redu-1995/To-Do-List-Website.git)
 
 ---
 
-### [Project 3: Airbnb Clone](#)
 
-![Airbnb Clone Screenshot](project_3_screenshot_url)
-
-A clone of Airbnb built using **React, Django, and PostgreSQL** featuring property listings, bookings, and user authentication.
-
-🔗 [Repository](project_3_repository_link)
-
----
 
 ## Get in Touch 📬
 
